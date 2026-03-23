@@ -48,6 +48,8 @@ Created: 2026-03-22
   - `/Users/stephancarlson/Library/Mobile Documents/com~apple~CloudDocs/_MASTER_ORG_ICLOUD/17_WEBSITE_DIGITAL_PRODUCTS/03_App_Code_and_Prototypes/brooklyn-psych-society-homepage/digital-presence-copy-kit.md`
 - Launch checklist:
   - `/Users/stephancarlson/Library/Mobile Documents/com~apple~CloudDocs/_MASTER_ORG_ICLOUD/17_WEBSITE_DIGITAL_PRODUCTS/03_App_Code_and_Prototypes/brooklyn-psych-society-homepage/launch-checklist.md`
+- Custom domain guide:
+  - `/Users/stephancarlson/Library/Mobile Documents/com~apple~CloudDocs/_MASTER_ORG_ICLOUD/17_WEBSITE_DIGITAL_PRODUCTS/03_App_Code_and_Prototypes/brooklyn-psych-society-homepage/custom-domain-setup.md`
 
 ## Screenshots
 
