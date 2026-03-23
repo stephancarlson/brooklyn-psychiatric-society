@@ -45,7 +45,8 @@ All other content (leadership names, address, phone, event dates, dues, committe
 
 ## Hosted Preview
 
-- Vercel preview: `https://skill-deploy-5b0ciah429-codex-agent-deploys.vercel.app`
+- GitHub Pages: `https://stephancarlson.github.io/brooklyn-psychiatric-society/`
+- Repository: `https://github.com/stephancarlson/brooklyn-psychiatric-society`
 
 ## Design Reference
 

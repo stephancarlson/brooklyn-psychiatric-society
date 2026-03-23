@@ -6,13 +6,12 @@ Created: 2026-03-22
 
 - Website pages created
 - Link hub created
-- Hosted Vercel preview created
+- GitHub Pages site live
 - Digital platform copy kit created
 - Asset index created
 
 ## Still Needs Account Creation
 
-- Claim hosted Vercel deployment
 - Register domain
 - Create domain email or forwarding
 - Create or update LinkedIn page
@@ -24,8 +23,8 @@ Created: 2026-03-22
 
 ## Recommended Order
 
-1. Claim the hosted preview deployment.
-2. Register the preferred domain.
+1. Register the preferred domain.
+2. Point the domain to GitHub Pages.
 3. Set up domain-based email forwarding or Google Workspace.
 4. Launch LinkedIn first.
 5. Launch Instagram and Facebook updates.

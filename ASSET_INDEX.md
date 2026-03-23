@@ -60,14 +60,10 @@ Created: 2026-03-22
 
 - Local preview:
   - `http://127.0.0.1:8080/`
-- Temporary public tunnel:
-  - `https://cuddly-clouds-show.loca.lt`
-- Tunnel password:
-  - `162.84.240.114`
-- Hosted Vercel preview:
-  - `https://skill-deploy-5b0ciah429-codex-agent-deploys.vercel.app`
-- Vercel claim URL:
-  - `https://vercel.com/claim-deployment?code=c41de69a-a016-4c86-bd9f-c63977750709`
+- Canonical public site:
+  - `https://stephancarlson.github.io/brooklyn-psychiatric-society/`
+- GitHub repository:
+  - `https://github.com/stephancarlson/brooklyn-psychiatric-society`
 
 ## Confirmed Real Content
 
@@ -80,4 +76,4 @@ Created: 2026-03-22
 
 - Replace sample content with verified leadership, address, phone, events, dues, and committee details.
 - Define real destinations for login, dues, directory, and public resource flows.
-- Claim or redeploy the Vercel preview under a managed account if a long-term hosted URL is needed.
+- Add a custom domain if the society wants a branded public URL beyond GitHub Pages.
