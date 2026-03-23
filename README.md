@@ -7,16 +7,24 @@ Multi-page static website prototype for the Brooklyn Psychiatric Society, modele
 | File | Purpose |
 |------|---------|
 | `index.html` | Homepage — hero, pathway cards, advocacy, membership tiers, events sidebar, careers |
+| `about.html` | Society overview, mission, and history |
+| `leadership.html` | Leadership and governance structure |
 | `membership.html` | Membership paths, benefits, join/renew flow |
 | `news-and-announcements.html` | Statements, policy updates, member announcements |
 | `event-calendar.html` | Upcoming events, annual programs |
 | `committees.html` | Standing committees, how to join |
+| `resident-competition.html` | Resident competition and trainee scholarship page |
+| `resources.html` | Patients, families, and urgent support resources |
+| `contact.html` | Contact routes and inquiry categories |
+| `links.html` | Links hub for website and launch assets |
 | `create-login.html` | Member login / account access |
 
 ## Shared Assets
 
 - `styles.css` — Full responsive stylesheet (Fraunces + IBM Plex Sans)
 - `app.js` — Mobile nav toggle + auto-year in footer
+- `digital-presence-copy-kit.md` — Draft copy for social and platform setup
+- `launch-checklist.md` — Launch tasks and account-creation dependencies
 
 ## Preview
 
@@ -34,6 +42,10 @@ Then open `http://localhost:8080`
 - Executive Director email: `lindabps@aol.com`
 
 All other content (leadership names, address, phone, event dates, dues, committee rosters) remains placeholder and should be verified before public use.
+
+## Hosted Preview
+
+- Vercel preview: `https://skill-deploy-5b0ciah429-codex-agent-deploys.vercel.app`
 
 ## Design Reference
 
